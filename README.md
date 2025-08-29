@@ -1,11 +1,19 @@
 # 🕵️‍♂️ IP Checker
 
-Tools sederhana untuk cek informasi IP/domain dengan API [ip-api.com](http://ip-api.com).
+Tools sederhana berbasis Python untuk mengecek informasi IP Address atau domain menggunakan API [ip-api.com](http://ip-api.com).
 
-## 🚀 Cara Install
+## ✨ Fitur
+- Cek detail informasi IP/Domain (Country, City, ISP, dll).
+- Fast & simple (gunakan API gratis).
+- Bisa loop terus menerus untuk monitoring.
+
+## 📦 Instalasi
+
+Clone repository ini:
 ```bash
 git clone https://github.com/YogaRmdn/IP-checker.git
 cd IP-checker
-pip install -r requirements.txt
+```
+## 📸 Screenshot
 
-![img alt](https://github.com/YogaRmdn/IP-checker/blob/08466290dd8c195d2f14c053c0614e75fa849a6b/ss.png)
+![IP-checker](ss.png)
