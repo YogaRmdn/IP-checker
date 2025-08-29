@@ -13,6 +13,7 @@ Clone repository ini:
 ```bash
 git clone https://github.com/YogaRmdn/IP-checker.git
 cd IP-checker
+python check.py
 ```
 ## 📸 Screenshot
 
