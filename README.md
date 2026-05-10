@@ -1,15 +1,15 @@
-# 🕵️‍♂️ IP Checker
+# IP Checker
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)]
 
-Tools sederhana berbasis Python untuk mengecek informasi IP Address atau domain menggunakan API [ip-api.com](http://ip-api.com).
+A simple Python-based tool for checking IP address or domain information using the [ip-api.com](http://ip-api.com) API.
 
-## ✨ Fitur
-- Cek detail informasi IP/Domain (Country, City, ISP, dll).
-- Fast & simple (gunakan API gratis).
-- Bisa loop terus menerus untuk monitoring.
+## Features
+- Check detailed IP/Domain information (Country, City, ISP, etc.).
+- Fast & simple (use the free API).
+- Can be looped continuously for monitoring.
 
-## 📦 Instalasi
+## How to use Tools
 
 Clone repository ini:
 ```bash
